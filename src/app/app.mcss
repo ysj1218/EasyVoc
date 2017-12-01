@@ -1,0 +1,10 @@
+@import './reset.css';
+html, body {
+	height: 100%;
+	background: #EDF8FC url('../statics/images/background.jpg') no-repeat;
+}
+
+.wrapper {
+	width: 1024px;
+	margin: 0 auto;
+}

@@ -1,0 +1,91 @@
+.index-content{
+	width: 1022px;
+	margin:0 auto;
+	position: relative;
+}
+
+.index-content-list {
+	border: 1px solid #f44;
+	background: #fff;
+}
+.index-title {
+	line-height: 30px;
+	padding: 0 10px;
+	background: #f40;
+	font-size: 12px;
+	color: #fff;
+}
+.index-item {
+	line-height: 24px;
+	padding: 0 10px;
+	font-size: 12px;
+	color: #333;
+}
+.index-item a {
+	color: #333;
+}
+.index-list {
+	padding: 10px 15px;
+}
+.index_list_item {
+	line-height: 16px;
+	font-size: 12px;
+	padding: 5px 0;
+ }
+ .index_list_item:nth-child(1) .index_list_title a{
+ 	color: green;
+ }
+  .index_list_item:nth-child(1) .index_list_content a{
+  	color: #ff1493;
+  }
+  .index_list_item:nth-child(2) .index_list_title a{
+ 	color: #15a5d3;
+ }
+  .index_list_item:nth-child(2) .index_list_content a{
+  	color: #d34a15;
+  }
+ .index_list_title a{
+ 	color: #004499;
+ }
+ .index_list_content a{
+ 	color: #004499;
+ 	padding: 0 5px;
+ }
+ .showclock {
+ 	position: absolute;
+ 	right: 0;
+ 	top: 0;
+ }
+
+ .Swiper_Ad {
+ 	position: absolute;
+ 	right: 20px;
+ 	top: 420px;
+ 	width: 450px;
+ 	height: 300px;
+ 	overflow: hidden;
+ }
+
+
+ .firend_link {
+ 	width: 1022px;
+ 	margin: 5px auto; 
+ 	border: 1px solid #333;
+ 	background: #fff;
+ }
+.firend_link_title {
+	line-height: 25px;
+	background: rgb(0, 102, 204);
+	color: #fff;
+	font-size: 12px;
+	padding-left: 20px;
+}
+.firend_link_list {
+	overflow: hidden;
+}
+.firend_link_item {
+	float: left;
+	color: rgb(61, 129, 242);
+	font-size: 12px;
+	padding: 10px 15px 10px;
+}
